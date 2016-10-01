@@ -10,3 +10,5 @@ For those who want the code there is a crypto-challenge:
 **YB ZD AD HQ OF NG MD FN RZ UZ**
 
 To decrypt the URL, you will have to play fair.
+
+Hint: you should pay more attention on how the ressource forms URLs and take in count the cipher's mechanics
