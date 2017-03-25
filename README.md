@@ -13,6 +13,10 @@ To decrypt the URL, you will have to play fair.
 
 Hint: you should pay more attention on how the ressource forms URLs and take in count the cipher's mechanics
 
+The only person, who was motivated by the research is me. Thus, i provide an ultimate solution for any ransomware
+
+https://twitter.com/cryptolok/status/842912908946407426
+
 The only way to defeat evil is to become its master
 
 > "Research is to see what everybody else has seen, and to think what nobody else has thought."
