@@ -24,7 +24,7 @@ To my keen regret, the only person, who was motivated by the research, is me. Th
 
 The irony is that the karma of "evil accusations" has returned to @malwaretech. Of course, few persons know the true reason behind his arrest, the second subject and all other details regarding this ... really strange and obscure story that already is viewed as a conspiracy (especially if you look at Wannacry transactions coincidences), but I'm not writing about that.
 
-In My Hackish Opinion, the main difference is that, my code wasn't used by anyone for a malicious purpose (at least on my knowledge), not because it was a "simple PoC that can't be weaponized because I ,the great emperor-king-ruler of all quarks believe and dictate so", but because I used mathematics for it (what a malware author (or analyst/researcher) would rather not learn).
+In My Hackish Opinion, the main difference is that, my code wasn't used by anyone for a malicious purpose (at least on my knowledge), not because it was a "simple PoC that can't be weaponized because I, the great emperor-king-ruler of all quarks believe and dictate so", but because I used mathematics for it (what a malware author (or analyst/researcher) would rather not learn).
 
 Of course, there was some personal experience, logic, obfuscation and business-model study for such an achievement and as you may see, this project was published under deep ethical consideration and without any harmful purpose, regardless what one may think or say or write because, well you see, there is no code to use at all in fact; the heart mechanic itself isn't open-sourced and well hardened (but who reads code nowadays right?).
 
