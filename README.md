@@ -32,7 +32,7 @@ Thus, mathematics helped to me avoid harming anyone and perhaps saved me from pr
 
 The purpose was to show that ransomware is different from a classical malware, thus requires a different approach since, all the current solutions are bypassable and yes, CryptoTrooper was very different from all open-source or not ransomwares, too bad nobody realized it.
 
-I, however, did realized what harm it could do and how much money I can make by selling a mathematically robust version of it that I of course didn't and won't do, this is not a purpose of my life. Interesting, to what extent one can rely on mathematics for freedom ...
+I, however, did realize what harm it could do and how much money I can make by selling a mathematically robust version of it that I of course didn't and won't do, this is not a purpose of my life. Interesting, to what extent one can rely on mathematics for freedom ...
 
 Please note that I'm not saying that @malwaretech deserves it, but I found this situation rather ... interesting, sad and educational at the same time. Or perhaps my code is cursed, just like [Joerg's Sprave dagger](https://www.youtube.com/watch?v=dKGogic643Y).
 
